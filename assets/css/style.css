@@ -1,0 +1,48 @@
+    /*Estilos da página index.html*/
+    .center{
+        text-align: center;
+    }
+
+    .container{
+        display: flex;
+        flex-flow: row;
+        justify-content:  center;
+        align-items: center;
+    }
+
+    .sobre{
+        padding: 30px;
+    }
+
+    .br-50{
+        border-radius: 50%;
+    }
+
+    .tamanho-logo{
+        width: 40px;
+        height: 40px;
+        padding: 10px;
+    }
+
+    .menu li {
+        display: inline;
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    .menu li a {
+        text-decoration: none;
+        color: black;
+    }
+   
+    .menu li a:hover{
+        color: grey;
+    }
+
+    .margem-baixo{
+        margin-bottom: 50px;
+    }
+
+    .margem-left{
+        margin-left: 100px;
+    }
